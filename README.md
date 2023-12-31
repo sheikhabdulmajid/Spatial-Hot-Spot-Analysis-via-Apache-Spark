@@ -16,4 +16,4 @@ The CalculateCoordinate function in HotcellUtils.scala assigned cell coordinates
 
 The analysis included extracting relevant data points within specified boundaries, calculating aggregations and statistics, identifying neighboring points, and ultimately computing Z-scores for each cell.
 
-After editing the scala files for Hot zone and Hot cell Analysis, a jar file was created using the sbt assembly command, which was then tested to confirm the correctness of the Scala code
+After editing the scala files for Hot zone and Hot cell Analysis, a jar file was created using the sbt assembly command, which was then tested to confirm the correctness of the Scala code.
